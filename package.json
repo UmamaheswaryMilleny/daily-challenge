@@ -1,6 +1,6 @@
 {
   "name": "daily-challenge",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Daily Coding Challenge",
   "main": "index.js",
   "type": "module",
