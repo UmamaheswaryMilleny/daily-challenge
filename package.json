@@ -1,13 +1,22 @@
 {
   "name": "daily-challenge",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Daily Coding Challenge",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["coding",
+    "daily",
+    "challenge",
+    "problems",
+    "javascript",
+    "practice",
+    "logic",
+    "arrays",
+    "strings",
+    "interview"],
   "author": "Umamaheswary Milleny",
   "license": "ISC"
 }

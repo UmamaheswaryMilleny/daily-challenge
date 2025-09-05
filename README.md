@@ -32,18 +32,4 @@ Output:
 ``Your daily challenge:
 Separate odd and even numbers into two arrays``
 
-## 🔑 Keywords (for package.json)
-
-"keywords": [
-  "coding",
-  "daily",
-  "challenge",
-  "problems",
-  "javascript",
-  "practice",
-  "logic",
-  "arrays",
-  "strings",
-  "interview"
-]
 
