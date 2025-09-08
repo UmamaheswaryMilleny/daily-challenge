@@ -25,7 +25,7 @@ A lightweight npm package that gives you a **new coding challenge every day** to
 
 `console.log("Your daily challenge:");`
 
-`console.log(getChallenge());`
+`console.log(getChallenge);`
 
 Output:
 
